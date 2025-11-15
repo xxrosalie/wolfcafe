@@ -1,4 +1,4 @@
-# Wolf cafe
+# Wolf Cafe
 
 ## Project Description
 For a class, as a group, we had to create a GrubHub knock-off called Wolf Cafe. We had to decide the designs of both the backend and frontend of this project.  
