@@ -26,6 +26,3 @@ To complete this project we used Java on IntelliJ, JavaScript, HTML, and CSS on 
 - Improved my frontend coding skills
 - Developed more design skills
 - Worked in a large team all with different roles
-
-
-
