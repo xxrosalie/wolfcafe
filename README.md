@@ -14,7 +14,14 @@ I was in charge of part of the frontend. I had to design and implement the login
 <img width="910" height="787" alt="checkout-wireframe" src="https://github.com/user-attachments/assets/9c105a95-b993-47ef-a551-bc93f68346e9" />   
 
 ## Technologies used
-To complete this project we used Java on IntelliJ, JavaScript, HTML, and CSS on VSCode, PostMan, and MySQL
+- Java
+- IntelliJ
+- JavaScript
+- HTML
+- CSS
+- VSCode
+- PostMan
+- MySQL
 
 ## Challenges
 - Figuring out all of the necessary requirements after reading the project description. It was hard to organize that information.   
