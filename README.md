@@ -11,11 +11,11 @@ I was in charge of part of the frontend. I had to design and implement the login
 My team members were Cooper Sizemore, Mikhail Alperovich, Aishwarya Radhakrishnan, Suhani Gulati, and Jason Yin. They implemented parts of the frontend and backend.
 
 ## Pictures of the pages I designed 
-<img width="910" height="787" alt="login-wireframe" src="https://github.com/user-attachments/assets/ef03c607-dae2-4b8c-8f00-c7268469cc91" />   
-<img width="910" height="787" alt="signup-wireframe" src="https://github.com/user-attachments/assets/bb8e7a9b-9c41-4d9b-b73f-14f528d50855" />   
-<img width="910" height="787" alt="staff-dashboard-wireframe" src="https://github.com/user-attachments/assets/a52c8e7c-afb1-4575-ba23-b50cbeae70f7" />   
-<img width="910" height="787" alt="checkout-wireframe" src="https://github.com/user-attachments/assets/9c105a95-b993-47ef-a551-bc93f68346e9" />  
-<img width="1595" height="906" alt="image" src="https://github.com/user-attachments/assets/ec43043e-6ee9-4a73-992c-9a8f9f9d4c54" />
+<img width="910" height="787" alt="image" src="https://github.com/user-attachments/assets/5e208379-8764-4e5a-a08a-09ad21afa41f" />
+<img width="910" height="787" alt="image" src="https://github.com/user-attachments/assets/c09bc6d0-8c39-4ae8-aab5-53e8a3eed36f" />
+<img width="910" height="787" alt="image" src="https://github.com/user-attachments/assets/cd7536fa-ea47-4020-aaec-d93c90a7a433" />
+<img width="910" height="787" alt="image" src="https://github.com/user-attachments/assets/59d475ef-2a2f-4998-8321-27a7fa91c8cd" />
+<img width="910" height="787" alt="image" src="https://github.com/user-attachments/assets/ec43043e-6ee9-4a73-992c-9a8f9f9d4c54" />
 
 
 ## Technologies used
