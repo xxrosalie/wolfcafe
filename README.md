@@ -7,11 +7,16 @@ The system has the possibility to log in as three different users: admin, staff,
 ## My Contributions
 I was in charge of part of the frontend. I had to design and implement the login, customer registration, staff dashboard, checkout, and active orders pages. 
 
+## Credits
+My team members were Cooper Sizemore, Mikhail Alperovich, Aishwarya Radhakrishnan, Suhani Gulati, and Jason Yin. They implemented parts of the frontend and backend.
+
 ## Pictures of the pages I designed 
 <img width="910" height="787" alt="login-wireframe" src="https://github.com/user-attachments/assets/ef03c607-dae2-4b8c-8f00-c7268469cc91" />   
 <img width="910" height="787" alt="signup-wireframe" src="https://github.com/user-attachments/assets/bb8e7a9b-9c41-4d9b-b73f-14f528d50855" />   
 <img width="910" height="787" alt="staff-dashboard-wireframe" src="https://github.com/user-attachments/assets/a52c8e7c-afb1-4575-ba23-b50cbeae70f7" />   
-<img width="910" height="787" alt="checkout-wireframe" src="https://github.com/user-attachments/assets/9c105a95-b993-47ef-a551-bc93f68346e9" />   
+<img width="910" height="787" alt="checkout-wireframe" src="https://github.com/user-attachments/assets/9c105a95-b993-47ef-a551-bc93f68346e9" />  
+<img width="1595" height="906" alt="image" src="https://github.com/user-attachments/assets/ec43043e-6ee9-4a73-992c-9a8f9f9d4c54" />
+
 
 ## Technologies used
 - Java
